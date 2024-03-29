@@ -3,3 +3,6 @@ The function should return the n-th number of the Fibonacci sequence.
 
 The 1st and 2nd number of the sequence is 1.
 To generate the next number of the sequence, we sum the previous two.
+
+The recursive implementation of the Fibonacci algorithm's time complexity is O(2^n),
+which is poor compared to the dynamic programming method which is optimized to have a better time complexity of O(n).
