@@ -6,3 +6,5 @@ To generate the next number of the sequence, we sum the previous two.
 
 The recursive implementation of the Fibonacci algorithm's time complexity is O(2^n),
 which is poor compared to the dynamic programming method which is optimized to have a better time complexity of O(n).
+
+fib memoized complexity : O(n) time , O(n) space
